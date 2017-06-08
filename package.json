@@ -1,0 +1,10 @@
+{
+  "main": "dist/index.js",
+  "dependencies": {
+    "@types/express": "^4.0.35",
+    "@types/twit": "^2.2.5",
+    "express": "^4.15.2",
+    "moment": "^2.18.1",
+    "twit": "^2.2.5"
+  }
+}
